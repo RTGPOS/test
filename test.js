@@ -1,1 +1,3 @@
-alert("Janice");
+$(function(){
+alert('Janice');
+});
